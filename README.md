@@ -8,6 +8,6 @@
 ## for folders commands 
 ## day1
 uv init day1
-cd day1 and uv venv --python 3.11
+cd day1 & uv venv --python 3.11
 source .venv/bin/activate (venv activate command)
 uv add groq python-dotenv (groq- dependency in pyproject.toml)
