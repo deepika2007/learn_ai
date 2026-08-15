@@ -45,7 +45,7 @@ python main.py
 
 
 ## day5
-<!-- -> understanding about pydantic so that manage response with json pattern  -->
+<!-- -> understanding for pypdf and python docs code for resume reader  -->
 uv init day5
 cd day5 & uv venv --python 3.11
 source .venv/bin/activate (venv activate command)
